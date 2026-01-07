@@ -4,6 +4,8 @@ A terminal-based animated ASCII fan that syncs with your system's actual fan spe
 
 ## Screenshots
 
+![Demo](demo.gif)
+
 ![ASCII Fan Normal](2026-01-07-194301_hyprshot.png)
 
 ![ASCII Fan Critical](2026-01-07-194314_hyprshot.png)
