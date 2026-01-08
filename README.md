@@ -11,8 +11,19 @@ A terminal-based animated ASCII fan that syncs with your system's actual fan spe
 ![ASCII Fan Critical](2026-01-07-194314_hyprshot.png)
 
 
+## Installation
+
 ```bash
-ascii-fan [OPTIONS]
+git clone https://github.com/Izuree/fanmon.git
+cd fanmon
+make install
+```
+
+
+## Usage
+
+```bash
+fanmon [OPTIONS]
 ```
 
 **Options:**
