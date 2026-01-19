@@ -32,3 +32,6 @@ fanmon [OPTIONS]
 - `-c, --color <COLOR>` - Set fan color (red, yellow, blue, green, cyan, purple)
 - `--hide-text` - Hide speed and status text
 - `-C, --center` - Center the fan animation
+
+## License
+MIT
